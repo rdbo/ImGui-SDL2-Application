@@ -1,0 +1,1 @@
+g++ -I/usr/include/SDL2 main.cpp sdl_program.cpp imgui/imgui*.cpp -o sdl_program -lSDL2 -lGL -ldl
